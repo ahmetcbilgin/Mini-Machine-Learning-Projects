@@ -2,10 +2,14 @@
 
 Hi, I am Ahmet.
 
-I aim to regularly upload machine learning projects.
+some simple projects I made to learn machine learning.
 
-Here is the list of projects I have uploaded:
+<ins>Here is the list of projects I have uploaded:</ins>
 
-Project 1 : SONAR Rock vs Mine Prediction with Python (Logistic Regression)
+Project 1 : SONAR Rock vs Mine Prediction with Python (Logistic Regression) 
+
 Project 2 : Diabetes Prediction using Machine Learning with Python (SVM)
+
 Project 3 : House Price Prediction using Machine Learning with Python (XGBoost Regression)
+
+Project 4: Fake News Prediction using Machine Learning with Python (Logistic Regression)
