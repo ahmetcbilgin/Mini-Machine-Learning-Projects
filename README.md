@@ -13,3 +13,5 @@ Project 2 : Diabetes Prediction using Machine Learning with Python (SVM)
 Project 3 : House Price Prediction using Machine Learning with Python (XGBoost Regression)
 
 Project 4: Fake News Prediction using Machine Learning with Python (Logistic Regression)
+
+Project 5:  Loan Status Prediction using Machine Learning with Python (SVM)
