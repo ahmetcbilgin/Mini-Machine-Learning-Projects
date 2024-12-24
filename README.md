@@ -16,4 +16,6 @@ Project 4: Fake News Prediction using Machine Learning with Python (Logistic Reg
 
 Project 5:  Loan Status Prediction using Machine Learning with Python (SVM)
 
+Project 6. Wine Quality Prediction using Machine Learning with Python (RandomForestClassifier)
+
 Project 7: Car Price Prediction using Machine Learning with Python (Linear Regression vs Lasso Regression)
